@@ -1,0 +1,4 @@
+def new_branch_func()
+	print("This is new branch func")
+
+new_branch_func()
